@@ -5,11 +5,17 @@
 // Variables
 @import 'variables';
 
+// Font-Awesome
+@import "~font-awesome/scss/font-awesome";
+
+
 // Bootstrap
 //@import '~bootstrap/scss/bootstrap';
 
+
 //Bulma (bootstrap tarzı birşey)
 @import "~bulma/bulma";
+
 
 .navbar-laravel {
   background-color: #fff;
